@@ -1,1 +1,1 @@
-predicting treatment outcomes bayesian inference
+predicting treatment outcomes using bayesian inference
