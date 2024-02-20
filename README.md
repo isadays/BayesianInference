@@ -9,7 +9,8 @@ The Bayesian inference process:
 
 3. Calculate the Likelihood: how well the observed data aligns with each possible hypothesis or model. 
 
-4. Apply Bayes’ Theorem: Bayes’ theorem is used to update the prior probabilities into posterior probabilities, taking into account the data and the likelihood. The formula for Bayes’ theorem is as follows:
+4. Apply Bayes’ Theorem: Bayes’ theorem is used to update the prior probabilities into posterior probabilities, taking into account the data and the likelihood. 
+
 
 5. Make Informed Decisions: The posterior probabilities provide us with updated beliefs about the hypotheses, models, or parameters. We can use these posterior probabilities to make decisions, make predictions, or perform further analysis.
 
